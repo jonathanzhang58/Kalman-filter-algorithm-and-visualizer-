@@ -1,0 +1,1 @@
+A simple MATLAB script that simulates a two parameter plant measured and a noisy measuring device that can only record one of the parameters. Over time the Kalman filter can accurately predict the unknown parameter and estimate the true value of the measured parameter with less noise than the measuring device.  
